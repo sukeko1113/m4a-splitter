@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.spec
+build/
+dist/
+bin/
+installer/Output/
+.venv/
+venv/
+.env
+.idea/
+.vscode/
+*.log
